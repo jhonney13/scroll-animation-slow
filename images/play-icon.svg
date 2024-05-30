@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-play-icon">
+      <rect width="40" height="40"/>
+    </clipPath>
+  </defs>
+  <g id="play-icon" clip-path="url(#clip-play-icon)">
+    <path id="Ausschluss_2" data-name="Ausschluss 2" d="M20,40A20.005,20.005,0,0,1,12.215,1.572a20.005,20.005,0,0,1,15.57,36.856A19.875,19.875,0,0,1,20,40ZM16,15V26l9-5.5Z" fill="#fff"/>
+  </g>
+</svg>
